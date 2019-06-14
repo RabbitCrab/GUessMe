@@ -26,7 +26,7 @@
 * Reed Switch and Magnet
 * Stepper Motor and Driver
 
-** Required Software**
+**Required Software**
 * ARC GNU Toolset
 * Database
 * Phone app
