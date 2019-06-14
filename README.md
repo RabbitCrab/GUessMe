@@ -8,4 +8,4 @@
 * Time recorded and reminder
 
 ### System Architecture
-![](https://imgur.com/a/VNnDyWR)
+![](https://i.imgur.com/ta4Kl1b.png)
