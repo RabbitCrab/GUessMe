@@ -14,3 +14,19 @@
 ![](https://i.imgur.com/I9VlQRS.jpg)
 ![](https://i.imgur.com/tf6Uo9D.jpg)
 ![](https://i.imgur.com/sg5Pwjt.jpg)
+
+### Hardware and Software Setup
+**Required Hardware**
+* ARC IOTDK
+* Buzzer
+* Light Sensor
+* Galvanized wire
+* GPS Module
+* Humidity Sensor
+* Reed Switch and Magnet
+* Stepper Motor and Driver
+
+** Required Software**
+* ARC GNU Toolset
+* Database
+* Phone app
