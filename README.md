@@ -15,7 +15,7 @@
 ![](https://i.imgur.com/tf6Uo9D.jpg)
 ![](https://i.imgur.com/sg5Pwjt.jpg)
 
-### Hardware and Software Setup
+## Hardware and Software Setup
 **Required Hardware**
 * ARC IOTDK
 * Buzzer
