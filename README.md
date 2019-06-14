@@ -20,7 +20,7 @@
 * ARC IOTDK
 * Buzzer
 * Light Sensor
-* Galvanized wire
+* Galvanized Wire
 * GPS Module
 * Humidity Sensor
 * Reed Switch and Magnet
@@ -29,4 +29,4 @@
 **Required Software**
 * ARC GNU Toolset
 * Database
-* Phone app
+* Phone App
