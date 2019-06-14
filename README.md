@@ -1,8 +1,8 @@
 # Intelligent-Clothes-Hanger
 
-##Introduction
+## Introduction
 
-###Function
-*Turning hanger according to sunlight
-*Location of hanger or cloth
-*Time recorded and reminder
+### Function
+* Turning hanger according to sunlight
+* Location of hanger or cloth
+* Time recorded and reminder
