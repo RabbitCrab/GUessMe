@@ -7,8 +7,11 @@
 * Location of hanger or cloth
 * Time recorded and reminder
 
+**Description**
+First of all, the hanger will turn while drying under the sunlight to ensure the cloth exposed the largest surface area to shorten the time. Next, there is a GPS on the hanger to locate the hanger or the cloth on the hanger. Third, once the hanger is hanging on the rod for drying, the time will be recorded. Last but not least, if the hanger hanging on the rod for more than some period which the user can set on their own preference, the phone app will pop out a reminder.
+
 ### System Architecture
-![](https://i.imgur.com/ta4Kl1b.png)
+![](https://i.imgur.com/50bmoZr.png)
 
 ### APP UI
 ![](https://i.imgur.com/I9VlQRS.jpg)
@@ -30,3 +33,6 @@
 * ARC GNU Toolset
 * Database
 * Phone App
+
+**Basic Implementation Diagram**
+![](https://i.imgur.com/Nxz3veC.jpg)
